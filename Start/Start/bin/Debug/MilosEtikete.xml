@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfEtiketaModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EtiketaModel>
+    <Oznaka>prva</Oznaka>
+    <Boja>
+      <A>255</A>
+      <R>0</R>
+      <G>255</G>
+      <B>255</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>1</ScG>
+      <ScB>1</ScB>
+    </Boja>
+    <Opis>Prva dodata</Opis>
+  </EtiketaModel>
+  <EtiketaModel>
+    <Oznaka>druga</Oznaka>
+    <Boja>
+      <A>255</A>
+      <R>127</R>
+      <G>255</G>
+      <B>212</B>
+      <ScA>1</ScA>
+      <ScR>0.212230757</ScR>
+      <ScG>1</ScG>
+      <ScB>0.658374846</ScB>
+    </Boja>
+    <Opis>Druga dodata</Opis>
+  </EtiketaModel>
+</ArrayOfEtiketaModel>

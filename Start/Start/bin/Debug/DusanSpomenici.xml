@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfSpomenik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Spomenik>
+    <Oznaka>re</Oznaka>
+    <Ime>rewrew</Ime>
+    <Opis>dswaae</Opis>
+    <Tip>rew</Tip>
+    <Era>Paleolit</Era>
+    <Status>Dostupni</Status>
+    <Prihod>753</Prihod>
+    <Obradjen>false</Obradjen>
+    <Unesco>true</Unesco>
+    <Datum>5/26/2019 12:00:00 AM</Datum>
+    <NaseljeDa>false</NaseljeDa>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/ajfell.jpg</Slika>
+    <X>323</X>
+    <Y>270</Y>
+    <Etikete />
+  </Spomenik>
+</ArrayOfSpomenik>

@@ -1,0 +1,345 @@
+﻿<Window x:Class="Start.Dodavanje.Novi_spomenik"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:System="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:Start.Dodavanje"
+        xmlns:l="clr-namespace:Start.Help"
+        mc:Ignorable="d"
+        Title="Novi_spomenik" Height="430" Width="750" l:HelpProvider.HelpKey="NoviSpomenik"
+        MaxHeight="430" MaxWidth="750" WindowStartupLocation="CenterScreen">
+
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Help" Executed="CommandBinding_Executed"/>
+    </Window.CommandBindings>
+    <Grid Margin="4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto" MinHeight="49.6" />
+            <RowDefinition Height="auto" MinHeight="49.6" />
+            <RowDefinition Height="auto" MinHeight="43.8" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" MinHeight="39.2" />
+            <RowDefinition Height="auto" MinHeight="43.2" />
+            <RowDefinition Height="auto" MinHeight="31.2" />
+
+
+
+        </Grid.RowDefinitions>
+
+
+        <Label Grid.Column="0" Name="oznaka" Grid.Row="0" Content="Oznaka:" HorizontalAlignment="Center" Margin="37,0,281,0.6" Width="50"></Label>
+        <TextBox Name="OznakaBox" Grid.Row="0" l:HelpProvider.HelpKey="NoviSpomenik" Margin="168,5,7,0.4">
+            <TextBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                   <!-- <Image Margin="5" Source="/Slike/tip.png"></Image> -->
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Oznaka spomenika predstavlja jedistvenu-ljudski čitljivu oznaku koja određuje
+                        svaki spomenik. Oznaka svakog spomenika je različita i služi da se spomenik
+                        jedinstveno identifikuje.
+                    </TextBlock>
+                </StackPanel>
+
+            </TextBox.ToolTip>
+            
+        </TextBox>
+
+            <Label Name="Ime" HorizontalAlignment="Center"  Grid.Column="0" Grid.Row="1"  Content="Ime:" Margin="47,4.4,271,19.2" Width="50"></Label>
+        <TextBox x:Name="ImeBox" Grid.Row="1" Margin="168,9.6,7,19">
+            <TextBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <!-- <Image Margin="5" Source="/Slike/tip.png"></Image> -->
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Ime spomenika se odnosi na ime spomenika koji unosite. Primeri za
+                        ime spomenika su: Ajfelova kula, Kineski zid, Kip slobode...
+                    </TextBlock>
+                </StackPanel>
+
+            </TextBox.ToolTip>
+
+        </TextBox>
+
+        <Label Name="Opis" HorizontalAlignment="Center" VerticalContentAlignment="Center" Grid.Column="0" Grid.Row="2"  Content="Opis:" Margin="49,4.8,283,43.8" Width="36" Grid.RowSpan="2"/>
+        <TextBox Name="OpisBox" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" Grid.Row="2" Margin="168,5,7,5.6">
+            <TextBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Kratak ili dugačak opis spomenika koji unoste. Sve informacije
+                        koje želite da uneste o smpomeniku, a nisu ponuđene, možete upisati u ovo polje.
+                    </TextBlock>
+                </StackPanel>
+
+            </TextBox.ToolTip>
+        </TextBox>
+
+        <Label Name="Tip" VerticalAlignment="Center" Grid.Column="0" Grid.Row="3" HorizontalContentAlignment="Center" Content="Tip:" Margin="10,12.2,248,5.8" Height="26"/>
+        <ComboBox Name="TipBox"  ItemsSource="{Binding Path=ListaTipova}" IsEditable="False" Grid.Row="3" Margin="167,8,99,9.8">
+            <ComboBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Svaki spomenik je određen tipom. Tip možete izabrati iz ponuđene liste ili
+                        kreirati svoj  potpuno novi tip.
+                    </TextBlock>
+                </StackPanel>
+
+            </ComboBox.ToolTip>
+           </ComboBox>
+
+        <Label VerticalAlignment="Center" Name="era" Grid.Column="0" Grid.Row="4" HorizontalContentAlignment="Center" Content="Era porekla:" Height="26" Margin="37,9.2,248,12"></Label>
+        <ComboBox Name="Era_piker"  ItemsSource="{Binding Path=Era_porekla}" IsEditable="False" Grid.Row="4" Margin="168,8.2,30,12.8">
+            <ComboBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Svaki spomenik je određen erom porekla. Eru porekla možete izabrati iz ponuđene liste.
+                    </TextBlock>
+                </StackPanel>
+            </ComboBox.ToolTip>
+            <ComboBoxItem Name="Paleolit" Content="Paleolit">
+                <ComboBoxItem.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Paleolit ili starije kameno doba je period koji se proteže od pre 2,6 miliona godina do 10.000. godine p. n. e. Obeležio ga je nastanak i razvoj hominida i prvobitnog oruđa i oružja, najčešće od kamena.
+                        </TextBlock>
+                    </StackPanel>
+                </ComboBoxItem.ToolTip>
+            </ComboBoxItem>
+            <ComboBoxItem Name="Neolit" Content="Neolit">
+                <ComboBoxItem.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Neolit ili mlađe kameno doba je period praistorije u kome je čovek potpuno ovladao proizvodnjom i upotrebom oružja i oruđa od glačanog kamena
+                        </TextBlock>
+                    </StackPanel>
+                </ComboBoxItem.ToolTip>
+            </ComboBoxItem>
+            <ComboBoxItem Name="Stari_vek" Content="Stari vek">
+                <ComboBoxItem.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Stari vek je epoha koja se proteže se od pojave klasnih društava, prvih civilizacija i prve pismenosti (4000—3000. godine p. n. e. pa do propasti Zapadnog rimskog carstva (476. godine).                      
+                        </TextBlock>
+                    </StackPanel>
+                </ComboBoxItem.ToolTip>
+            </ComboBoxItem>
+            <ComboBoxItem Name="Srednji_vek" Content="Srednji vek">
+                <ComboBoxItem.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Srednji vek obuhvata istorijski period od V do XV veka. To je razdoblje počelo padom Zapadnog rimskog carstva i okončalo se renesansom i razdobljem velikih geografskih otkrića.
+                        </TextBlock>
+                    </StackPanel>
+                </ComboBoxItem.ToolTip>
+            </ComboBoxItem>
+            <ComboBoxItem Name="Renesansa" Content="Renesansa">
+                <ComboBoxItem.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Renesansa je kulturno-istorijski pojam koji je najpre označavao doba od 1350. do 16. veka kao period u kome je došlo do ponovnog interesovanja za klasičnu antiku i procvata umetnosti, da bi se zatim ovim pojmom označavalo kulturno stanje prelaznog doba od srednjeg veka do novog doba, naročito u Italiji.
+                        </TextBlock>
+                    </StackPanel>
+                </ComboBoxItem.ToolTip>
+            </ComboBoxItem>
+            <ComboBoxItem Name="Moderno_doba" Content="Moderno doba">
+                <ComboBoxItem.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                           Moderno doba je vremenski period koji je bez prekida blisko povezan sa sadašnjim vremenom i koji je izvesna perspektiva moderne istorije. Termin „savremena istorija“ je u upotrebi od 19. veka.
+                        </TextBlock>
+                    </StackPanel>
+                </ComboBoxItem.ToolTip>
+            </ComboBoxItem>
+        </ComboBox>
+
+
+        <Label Grid.Column="1" Name="obradjenost" HorizontalContentAlignment="Center" Content="Arheološka obrađenost:" Margin="3,0,210,48.2" Grid.RowSpan="2"/>
+        <CheckBox Name="Obradjen" HorizontalAlignment="Left" Margin="214,5,0,0" VerticalAlignment="Top" Height="15" Width="16" Grid.Column="1">
+            <CheckBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Ukoliko je spomenik koji kreirate arheološki obrađen, što znači da su arheolozi završili sva istraživanja na njemu, onda označite ovo polje.
+                    </TextBlock>
+                </StackPanel>
+
+            </CheckBox.ToolTip>
+        </CheckBox>
+
+        <Label VerticalAlignment="Center" HorizontalContentAlignment="Center" Grid.Column="1" Grid.Row="1"  Content="Na  na listi UNESCO?" Margin="10,9.4,223,14.2" Height="26"></Label>
+        <CheckBox Name="Unescobx" HorizontalAlignment="Left" Margin="214,16.8,0,0" VerticalAlignment="Top" Height="15" Width="16" Grid.Column="1" Grid.Row="1">
+            <CheckBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Ukoliko se spomenik koji kreirate nalazi na Unescovoj listi označite ovo polje. Unesco lista je lista na kojoj se nalaze spomenici i lokaliteti kulturnog i prirodnog bogatstva širom sveta. 
+                    </TextBlock>
+                </StackPanel>
+
+            </CheckBox.ToolTip>
+        </CheckBox>
+
+        <Label  Name="naselje" VerticalAlignment="Center" HorizontalContentAlignment="Center" Grid.Column="1" Grid.Row="3"  Content="Da li je u naseljenom mestu?" Margin="3,9.4,193,8.6" Height="26"/>
+        <CheckBox Name="Naseljebx" HorizontalAlignment="Left" Margin="214,13,0,0" Grid.Row="3" VerticalAlignment="Top" Height="15" Width="16" Grid.Column="1">
+            <CheckBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Ukoliko se spomenik koji kreirate nalazi u naseljenom mestu označite ovo polje.
+                    </TextBlock>
+                </StackPanel>
+
+            </CheckBox.ToolTip>
+        </CheckBox>
+
+        <Label VerticalAlignment="Center" Name="Tursitickistatus" HorizontalContentAlignment="Center" Grid.Column="0" Grid.Row="5"  Content="Turistički status:" Margin="-4,7.2,200,6" Height="26"/>
+        <ComboBox Name="Status_piker" IsEditable="False" ItemsSource="{Binding Path=Turisticki_status}" Grid.Row="5" Margin="168,10.2,31,2">
+            <ComboBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Svaki spomenik je određen turističkim statusom. Turistički status možete izabrati iz ponuđene liste.
+                    </TextBlock>
+                </StackPanel>
+            </ComboBox.ToolTip>
+            <ComboBoxItem Name="Eksploatisan" Content="Eksploatisan">
+                <ComboBoxItem.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Eksplatisani spomenici su oni spomenici čiji su resursi ili dobro koje spomenici donose maksimalno korišćeni.
+                        </TextBlock>
+                    </StackPanel>
+                </ComboBoxItem.ToolTip>
+            </ComboBoxItem>
+            <ComboBoxItem Name="Dostupni" Content="Dostupni">
+                <ComboBoxItem.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                            Dostupni spomenici su spomenici koji su u svakom pogledu dostupni turistima. Dostupni spomenici su bezbedni i turistima je u svakom momentu omogućen pristup ovim spomenicima.
+                        </TextBlock>
+                    </StackPanel>
+                </ComboBoxItem.ToolTip>
+            </ComboBoxItem>
+            <ComboBoxItem Name="Nedostupni" Content="Nedostupni">
+                <ComboBoxItem.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                            Nedostupni spomenici su spomenici koji iz nekog razloga nisu dostupni turistima. Razlozi za nedpustupnost nekom spomeniku mogu biti bezbednost, retkost nekog spomenika, ili neki drugi razlog zaštite spomenika ili turista.
+                        </TextBlock>
+                    </StackPanel>
+                </ComboBoxItem.ToolTip>
+            </ComboBoxItem>
+        </ComboBox>
+
+        <Label Name="Prihod" VerticalAlignment="Center" HorizontalContentAlignment="Center" Grid.Column="1" Grid.Row="4"  Content="Godišnji prihodi od turizma:" Margin="7,11.4,189,9.8" Height="26"/>
+        <TextBox Name="PrihodBox" Grid.Row="4" Margin="228,11.4,68,9.8" Grid.Column="1">
+            <TextBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Polje namenjeno da za spomenik koji kreirate uneste brojčanu vrednost prihoda  od turizma, valuta za prihod svakog spomenika su dolari.
+                    </TextBlock>
+                </StackPanel>
+            </TextBox.ToolTip>
+        </TextBox>
+        <Label Content="$" HorizontalAlignment="Left" Margin="319,10.4,0,0" Grid.Row="4" VerticalAlignment="Top" Height="26" Width="16" Grid.Column="1"/>
+
+        <Label Grid.Row="2" Name="datum" HorizontalContentAlignment="Center" VerticalAlignment="Center" Margin="3,9,217,14.6" Grid.Column="1" Height="26">Datum otkrivanja:</Label>
+        <DatePicker Name="Datum" DisplayDateEnd="{x:Static System:DateTime.Now}" Grid.Column="1" HorizontalAlignment="Left" Margin="233,11.8,0,0" Grid.Row="2" VerticalAlignment="Top" Height="24" Width="102">
+            
+        </DatePicker>
+        <Image Name="slikatip" HorizontalAlignment="Left" Height="40" Margin="45,23.2,0,0" VerticalAlignment="Top" Width="54" Grid.Row="5" Grid.Column="1" Grid.RowSpan="2"/>
+        <Button Click="Dodajsliku_Click_5" Content="Dodaj sliku" Grid.Column="1" HorizontalAlignment="Left" Margin="210,5,0,0" Grid.Row="6" VerticalAlignment="Top" Width="75" Height="19">
+            <Button.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Dugme je namenjeno za dodavanje slike za spomenik koji kreirate, ukoliko ne dodate sliku, biće dodata slika iz tipa koji ste odabrali.
+                    </TextBlock>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+
+        <Border  BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="61" Margin="45,10.2,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="0.287,0.059" Grid.Row="5" Grid.Column="1" Grid.RowSpan="2"/>
+        <Button Name="snimidugme" Content="Snimi spomenik" HorizontalAlignment="Left" Margin="256,43.2,0,-4.6" Grid.Row="7" VerticalAlignment="Top" Width="102" Height="27" Click="Button_Click_2">
+            <Button.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Pritiskom na dugme biće sačuvan spomenik za koji ste uneli podatke.
+                    </TextBlock>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+        <Button Content="Odustani" HorizontalAlignment="Left" Margin="45,43.2,0,-5.4" Grid.Row="7" VerticalAlignment="Top" Width="89" Height="27" Click="Button_Click_1" Grid.Column="1">
+            <Button.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Pitiskom na dugme odustajete od kreiranja spomenika i napuštate ovaj dojalog.
+                    </TextBlock>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+        <Separator HorizontalAlignment="Left" Height="5" Margin="-4,24.2,0,0" Grid.Row="7" VerticalAlignment="Top" Width="740" Grid.ColumnSpan="2"/>
+        <Separator HorizontalAlignment="Left" Height="4" Margin="206,37,0,0" Grid.Row="3" VerticalAlignment="Top" Width="325" Grid.ColumnSpan="2" RenderTransformOrigin="0.5,0.5">
+            <Separator.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-89.466"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Separator.RenderTransform>
+        </Separator>
+
+        <Button Content="Novi tip" HorizontalAlignment="Left" Margin="286,12.2,0,0" Grid.Row="3" VerticalAlignment="Top" Width="75" Click="Button_Click" Height="19">
+            <Button.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Dugme je namenjeno za dodavanje novog tipa ukoliko u listi ne postoji tip koji Vam je potreban.
+                    </TextBlock>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+
+        <Label Name="Etiketa" Grid.Column="0" Grid.Row="6" HorizontalContentAlignment="Center" VerticalAlignment="Center" Margin="-4,8,235,10.2" Height="25">Etiketa:</Label>
+
+        <ListBox Name="EtiketaBox" ItemsSource="{Binding Path=ListaEtiketa}" SelectionMode="Multiple" HorizontalAlignment="Left" Height="53" Margin="138,10.2,0,0" Grid.Row="6" VerticalAlignment="Top" Width="131" Grid.RowSpan="2">
+            <ListBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Svaki spomenik je određen etiketom. Ne morate izabrati nijednu etiketu, možete jednu ili više, ili
+                         moežete kreirati svoju  potpuno novu etiketu.
+                    </TextBlock>
+                </StackPanel>
+
+            </ListBox.ToolTip>
+        </ListBox>
+
+        <Button Content="Nova etiketa" HorizontalAlignment="Left" Margin="283,13,0,0" Grid.Row="6" VerticalAlignment="Top" Width="75" Click="Etiketa_Click" Height="19">
+            <Button.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Dugme je namenjeno za dodavanje nove etikete ukoliko u listi ne postoji etiketa koji Vam je potreban.
+                    </TextBlock>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+
+
+        <Label Name="oznakaproblem" Content="! Unesite oznaku !"  Visibility="Hidden" HorizontalAlignment="Left" VerticalAlignment="Top" Width="168" Height="26" Margin="18,-2,0,0"/>
+        <Label Content="! Unesite ime !" x:Name="ime_greska"  Visibility="Hidden" HorizontalAlignment="Left" Margin="31,4.6,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label Content="! Unesite opis !" Visibility="Hidden" Name="opis_greska" HorizontalAlignment="Left" Margin="37,14,0,0" Grid.Row="2" VerticalAlignment="Top"/>
+        <Label Content="! Izaberite tip !" Visibility="Hidden" Name="tip_greska" HorizontalAlignment="Left" Margin="40,10.4,0,0" Grid.Row="3" VerticalAlignment="Top"/>
+        <Label  Content="! Izaberite eru porekla !" Visibility="Hidden" Name="Eraporeka_greska" HorizontalAlignment="Left" Margin="10,9.2,0,0" Grid.Row="4" VerticalAlignment="Top" Width="144" Height="26"/>
+        <Label Content="! Izaberite turistički status !" Visibility="Hidden"  Name="Tursitickistatus_greska" HorizontalAlignment="Left" Margin="10,7.2,0,0" Grid.Row="5" VerticalAlignment="Top" Width="158" Height="25"/>
+        <Label Content="! Unesite etiketu !" Visibility="Hidden" Name="etiketa_greska" HorizontalAlignment="Left" Margin="31,10,0,0" Grid.Row="6" VerticalAlignment="Top"/>
+        <Label Name="Obradjenost_greska" Content="! Oznacite obradjenost !" Visibility="Hidden" Grid.Column="1" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Height="26" Width="141"/>
+        <Label Name="Datumgreska" Visibility="Hidden"  Content="! Izaberite datum !" HorizontalAlignment="Left" Margin="45,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="185" Height="25" Grid.Column="1"/>
+        <Label Name="naselje_greska" Visibility="Hidden" Content="! Oznacite da li je u naselju !" Grid.Column="1" HorizontalAlignment="Left" Margin="20,11.4,0,0" Grid.Row="3" VerticalAlignment="Top"/>
+        <Label Content="! Unesite prohod u dolarima !" Visibility="Hidden" Name="prihod_greska" Grid.Column="1" HorizontalAlignment="Left" Margin="20,10.4,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+
+
+
+
+    </Grid>
+
+
+</Window>

@@ -1,0 +1,117 @@
+﻿<Window x:Class="Start.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Start"
+         xmlns:l="clr-namespace:Start.Help"
+        mc:Ignorable="d"
+        Title="Mapa spomenika" Height="430" Width="750" Icon="/Slike/svet1.jpg" l:HelpProvider.HelpKey="MainHelp"
+        MaxHeight="430" MaxWidth="750" WindowStartupLocation="CenterScreen">
+
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Help" Executed="CommandBinding_Executed"/>
+    </Window.CommandBindings>
+
+    <DockPanel>
+
+
+        <ToolBar DockPanel.Dock ="Top">
+            <Button ToolTip="Dodaj novi spomenik"  Click="MenuItem_Click_5">
+                <StackPanel Orientation="Horizontal">
+                    <Image Width="25" Height="25" Source="Slike/monument.png"/>
+                    <TextBlock VerticalAlignment="Center"> Novi spomenik</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button ToolTip="Dodaj novi tip" Click="Tip_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Width="25" Height="25" Source="Slike/tip.png"/>
+                    <TextBlock VerticalAlignment="Center">Novi tip</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button ToolTip="Dodaj novu etiketu" Click="Etiketa_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Width="25" Height="25" Source="Slike/etiketa.png"/>
+                    <TextBlock VerticalAlignment="Center">Nova etiketa</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button ToolTip="Prikaz tabele i izmena spomenika" Click="Tabela_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Width="25" Height="25" Source="Slike/sema.png"/>
+                    <TextBlock VerticalAlignment="Center">Tabela spomenika</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button ToolTip="Prikaz tabele i izmena tipova" Click="TabelaTip_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Width="25" Height="25" Source="Slike/sema.png"/>
+                    <TextBlock VerticalAlignment="Center">Tabela tipova</TextBlock>
+                </StackPanel>
+            </Button>
+
+            <Button ToolTip="Prikaz tabele i izmena etiketa" Click="TabelaEtiketa_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Width="25" Height="25" Source="Slike/sema.png"/>
+                    <TextBlock VerticalAlignment="Center">Tabela etiketa</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button ToolTip="Pomoć pri radu" Click="Help_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Width="25" Height="25" Source="Slike/pomoc.png"/>
+                    <TextBlock VerticalAlignment="Center">Pomoć</TextBlock>
+                </StackPanel>
+            </Button>
+
+        </ToolBar>
+
+        <!-- Drag and Drop-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="152.8"/>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <!--leva strana-->
+            <ScrollViewer Margin="0,0,42.8,-0.4">
+                <ItemsControl x:Name="svetskiSpomenici" Grid.Column="0" ItemsSource="{Binding Path=ListaSpomenika, UpdateSourceTrigger=PropertyChanged}" Width="96">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel Orientation="Vertical" Background="Silver"/>
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Background="White" Margin="1,1,1,0" Cursor="Hand" Tag="{Binding Path=Oznaka}" 
+                                       PreviewMouseLeftButtonDown="StackPanel_PreviewMouseLeftButtonDown">
+
+                                <Image Source="{Binding Path=Slika}" Height="30" Width="40" Margin="4,4,4,4" Stretch="UniformToFill"/>
+                                <StackPanel Orientation="Vertical" Margin="0,4,2,4">
+                                    <TextBlock Text="{Binding Path=Oznaka}" FontWeight="Bold"/>
+                                    <TextBlock Text="{Binding Path=Ime}"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+
+                </ItemsControl>
+
+            </ScrollViewer>
+
+            <!--desna strana - kanvas-->
+            <Canvas Name="mapaSpomenika" AllowDrop="True" ContextMenuService.IsEnabled="False"
+                  
+                    Drop="mapaSpomenika_Drop"
+                MouseLeftButtonDown="mapaSpomenika_MouseLeftButtonDown" Grid.ColumnSpan="2" Margin="115,0,0,-0.4">
+
+                <Canvas.Background>
+                    <ImageBrush x:Name="mapaSlika" ImageSource="Slike/mapa.png"></ImageBrush>
+                </Canvas.Background>
+                <Button Content="Vrsta daltonizma" Canvas.Left="10" Click="Daltoniznam_Click" Canvas.Top="337" Width="98">
+
+                </Button>
+            </Canvas>
+        </Grid>
+
+
+    </DockPanel>
+</Window>

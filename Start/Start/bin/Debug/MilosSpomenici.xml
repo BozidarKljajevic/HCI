@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<ArrayOfSpomenik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Spomenik>
+    <Oznaka>Neka</Oznaka>
+    <Ime>nesto</Ime>
+    <Opis>neki</Opis>
+    <Tip>prvi</Tip>
+    <Era>Neolit</Era>
+    <Status>Eksploatisan</Status>
+    <Prihod>785</Prihod>
+    <Obradjen>false</Obradjen>
+    <Unesco>true</Unesco>
+    <Datum>5/29/2019 12:00:00 AM</Datum>
+    <NaseljeDa>false</NaseljeDa>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/ajfell.jpg</Slika>
+    <X>509</X>
+    <Y>252</Y>
+    <Etikete>
+      <string>prva</string>
+    </Etikete>
+  </Spomenik>
+  <Spomenik>
+    <Oznaka>jos</Oznaka>
+    <Ime>jos</Ime>
+    <Opis>josjos</Opis>
+    <Tip>drugi</Tip>
+    <Era>Paleolit</Era>
+    <Status>Dostupni</Status>
+    <Prihod>7856</Prihod>
+    <Obradjen>false</Obradjen>
+    <Unesco>true</Unesco>
+    <Datum>5/27/2019 12:00:00 AM</Datum>
+    <NaseljeDa>false</NaseljeDa>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/kip.jpg</Slika>
+    <X>111</X>
+    <Y>87</Y>
+    <Etikete>
+      <string>prva</string>
+      <string>druga</string>
+    </Etikete>
+  </Spomenik>
+</ArrayOfSpomenik>

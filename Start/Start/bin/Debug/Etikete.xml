@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfEtiketaModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EtiketaModel>
+    <Oznaka>Etiketa2</Oznaka>
+    <Boja>
+      <A>255</A>
+      <R>0</R>
+      <G>191</G>
+      <B>255</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>0.520995557</ScG>
+      <ScB>1</ScB>
+    </Boja>
+    <Opis>Etiketa drugog nivoa</Opis>
+  </EtiketaModel>
+  <EtiketaModel>
+    <Oznaka>Etiketa1</Oznaka>
+    <Boja>
+      <A>255</A>
+      <R>0</R>
+      <G>206</G>
+      <B>209</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>0.6172066</ScG>
+      <ScB>0.637596846</ScB>
+    </Boja>
+    <Opis>Neka bzvz etiketa</Opis>
+  </EtiketaModel>
+</ArrayOfEtiketaModel>

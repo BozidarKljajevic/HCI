@@ -1,0 +1,410 @@
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\Start.exe.config
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\Start.exe
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\Start.pdb
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Start.csprojAssemblyReference.cache
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\MainWindow.g.cs
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\App.g.cs
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Start_MarkupCompile.cache
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Start_MarkupCompile.lref
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\MainWindow.baml
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Start.g.resources
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Start.Properties.Resources.resources
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Start.csproj.GenerateResource.cache
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Start.exe
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Start.pdb
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.g.cs
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.baml
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Dodavanje\Tip.g.cs
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Dodavanje\Tip.baml
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Dodavanje\Etiketa.g.cs
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Dodavanje\Etiketa.baml
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Start.csproj.CopyComplete
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Tabele\SpomenikTabela.g.cs
+C:\Users\bozid\Desktop\hci\Projekat\Start\Start\obj\Debug\Tabele\SpomenikTabela.baml
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Start.csprojAssemblyReference.cache
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Dodavanje\Etiketa.g.cs
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.g.cs
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Dodavanje\Tip.g.cs
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\MainWindow.g.cs
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Tabele\SpomenikTabela.g.cs
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\App.g.cs
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Start_MarkupCompile.cache
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Start_MarkupCompile.lref
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Start.exe
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Start.pdb
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\Start.exe.config
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\Start.exe
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\Start.pdb
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Dodavanje\Etiketa.baml
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.baml
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Dodavanje\Tip.baml
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\MainWindow.baml
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Tabele\SpomenikTabela.baml
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Start.g.resources
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Start.Properties.Resources.resources
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Start.csproj.GenerateResource.cache
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+C:\Users\bozid\Desktop\Projekat22\Start\Start\obj\Debug\Start.csproj.CopyComplete
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\Start.exe.config
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\Start.exe
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\Start.pdb
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Start.csprojAssemblyReference.cache
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.g.cs
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.g.cs
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.g.cs
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\MainWindow.g.cs
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.g.cs
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\App.g.cs
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.cache
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.lref
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.baml
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.baml
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.baml
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\MainWindow.baml
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.baml
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Start.g.resources
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Start.Properties.Resources.resources
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Start.csproj.GenerateResource.cache
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Start.csproj.CopyComplete
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Start.exe
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Start.pdb
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.g.cs
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.baml
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.g.cs
+C:\Users\bozid\Downloads\RA9-2016-20190512T091810Z-001\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\Start.exe.config
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\Start.exe
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\Start.pdb
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Start.csprojAssemblyReference.cache
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\MainWindow.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\App.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.cache
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.lref
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.baml
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.baml
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.baml
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\MainWindow.baml
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Start.g.resources
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Start.Properties.Resources.resources
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Start.csproj.GenerateResource.cache
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Start.csproj.CopyComplete
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Start.exe
+C:\Users\bozid\Desktop\RA9-2016 Hci - Copy\RA9-2016\Start\Start\obj\Debug\Start.pdb
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.exe.config
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.exe
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.pdb
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csprojAssemblyReference.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\MainWindow.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\App.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.lref
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\MainWindow.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.g.resources
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.Properties.Resources.resources
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.GenerateResource.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.CopyComplete
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.exe
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic-20190523T182101Z-001\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.pdb
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csprojAssemblyReference.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\MainWindow.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\App.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.lref
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.exe
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.pdb
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.exe.config
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.exe
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.pdb
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\MainWindow.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.g.resources
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.Properties.Resources.resources
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.GenerateResource.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.CopyComplete
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.exe.config
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.exe
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.pdb
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csprojAssemblyReference.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\MainWindow.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\App.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.lref
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\MainWindow.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.g.resources
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.Properties.Resources.resources
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.GenerateResource.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.CopyComplete
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.exe
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic sa Dusanom - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.pdb
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.exe.config
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.exe
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.pdb
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csprojAssemblyReference.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\MainWindow.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\App.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.lref
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\MainWindow.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.g.resources
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.Properties.Resources.resources
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.GenerateResource.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.CopyComplete
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.exe
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.pdb
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.exe.config
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.exe
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Start.pdb
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csprojAssemblyReference.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Daltonizam.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\MainWindow.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\App.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start_MarkupCompile.lref
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Etiketa.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Novi_spomenik.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Dodavanje\Tip.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\MainWindow.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\EtiketaTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\SpomenikTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Tabele\TipTabela.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Daltonizam.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.g.resources
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.Properties.Resources.resources
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.GenerateResource.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.csproj.CopyComplete
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.exe
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start.pdb
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Logovanje.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Logovanje.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Registracija.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Registracija.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Daltonizam.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Logovanje.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Registracija.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Daltonizam.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Logovanje.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Registracija.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Help\HelpViewer.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Help\HelpViewer.baml
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\obj\Debug\Start_Content.g.cs
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\MainHelp.htm
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\pocetni.png
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\NoviSpomenik.htm
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\spomenik.png
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\NoviTipHelp.htm
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\tipsve.png
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\etiketasve.png
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\NovaEtiketaHelp.htm
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\tabelaspomenika.png
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\TabelaSpomenikHelp.htm
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\TabelaTipHelp.htm
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\tiptabela.png
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\etiketatabela.png
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\TabelaEtiketaHelp.htm
+C:\Users\bozid\Desktop\RA9-2016 Bozidar Kljajevic - Copy\RA9-2016 Bozidar Kljajevic\RA9-2016\Start\Start\bin\Debug\Help\LogovanjeHelp.htm

@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<ArrayOfSpomenik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Spomenik>
+    <Oznaka>dsadsa</Oznaka>
+    <Ime>fasd</Ime>
+    <Opis>fffa</Opis>
+    <Tip>LKK</Tip>
+    <Era>Paleolit</Era>
+    <Status>Dostupni</Status>
+    <Prihod>856</Prihod>
+    <Obradjen>false</Obradjen>
+    <Unesco>true</Unesco>
+    <Datum>5/15/2019 12:00:00 AM</Datum>
+    <NaseljeDa>false</NaseljeDa>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/kip.jpg</Slika>
+    <X>169</X>
+    <Y>214</Y>
+    <Etikete>
+      <string>df</string>
+    </Etikete>
+  </Spomenik>
+  <Spomenik>
+    <Oznaka>sddad</Oznaka>
+    <Ime>prvi</Ime>
+    <Opis>dsad</Opis>
+    <Tip>LKK</Tip>
+    <Era>Paleolit</Era>
+    <Status>Eksploatisan</Status>
+    <Prihod>896</Prihod>
+    <Obradjen>true</Obradjen>
+    <Unesco>false</Unesco>
+    <Datum>5/28/2019 12:00:00 AM</Datum>
+    <NaseljeDa>false</NaseljeDa>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/kip.jpg</Slika>
+    <X>0</X>
+    <Y>0</Y>
+    <Etikete />
+  </Spomenik>
+  <Spomenik>
+    <Oznaka>fda</Oznaka>
+    <Ime>dsadsa</Ime>
+    <Opis>dsads</Opis>
+    <Tip>LKK</Tip>
+    <Era>Paleolit</Era>
+    <Status>Eksploatisan</Status>
+    <Prihod>896</Prihod>
+    <Obradjen>false</Obradjen>
+    <Unesco>true</Unesco>
+    <Datum>5/26/2019 12:00:00 AM</Datum>
+    <NaseljeDa>false</NaseljeDa>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/kip.jpg</Slika>
+    <X>0</X>
+    <Y>0</Y>
+    <Etikete>
+      <string>rrrrr</string>
+    </Etikete>
+  </Spomenik>
+  <Spomenik>
+    <Oznaka>erw</Oznaka>
+    <Ime>rew</Ime>
+    <Opis>rwe</Opis>
+    <Tip>LKK</Tip>
+    <Era>Paleolit</Era>
+    <Status>Eksploatisan</Status>
+    <Prihod>858</Prihod>
+    <Obradjen>false</Obradjen>
+    <Unesco>true</Unesco>
+    <Datum>5/27/2019 12:00:00 AM</Datum>
+    <NaseljeDa>false</NaseljeDa>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/kip.jpg</Slika>
+    <X>119</X>
+    <Y>94</Y>
+    <Etikete>
+      <string>df</string>
+    </Etikete>
+  </Spomenik>
+  <Spomenik>
+    <Oznaka>sdfds</Oznaka>
+    <Ime>das</Ime>
+    <Opis>dsasd</Opis>
+    <Tip>LKK</Tip>
+    <Era>Paleolit</Era>
+    <Status>Eksploatisan</Status>
+    <Prihod>7856</Prihod>
+    <Obradjen>false</Obradjen>
+    <Unesco>true</Unesco>
+    <Datum>5/27/2019 12:00:00 AM</Datum>
+    <NaseljeDa>false</NaseljeDa>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/kip.jpg</Slika>
+    <X>0</X>
+    <Y>0</Y>
+    <Etikete>
+      <string>df</string>
+    </Etikete>
+  </Spomenik>
+</ArrayOfSpomenik>

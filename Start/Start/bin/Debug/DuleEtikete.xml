@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfEtiketaModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EtiketaModel>
+    <Oznaka>df</Oznaka>
+    <Boja>
+      <A>255</A>
+      <R>255</R>
+      <G>140</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>1</ScR>
+      <ScG>0.262250662</ScG>
+      <ScB>0</ScB>
+    </Boja>
+    <Opis>sdasd</Opis>
+  </EtiketaModel>
+  <EtiketaModel>
+    <Oznaka>rrrrr</Oznaka>
+    <Boja>
+      <A>255</A>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
+    </Boja>
+    <Opis>sdadad</Opis>
+  </EtiketaModel>
+</ArrayOfEtiketaModel>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfTipModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TipModel>
+    <Oznaka>Tip3</Oznaka>
+    <Ime>Kulturni</Ime>
+    <Opis>Vrlo kulturan tip</Opis>
+    <Slika>file:///C:/Users/bozid/Desktop/New folder (2)/svet1.jpg</Slika>
+  </TipModel>
+  <TipModel>
+    <Oznaka>Baki</Oznaka>
+    <Ime>sdsdds</Ime>
+    <Opis>fsdfd</Opis>
+    <Slika>file:///C:/Users/bozid/Desktop/New folder (2)/spomenici.jpg</Slika>
+  </TipModel>
+  <TipModel>
+    <Oznaka>Tip1</Oznaka>
+    <Ime>Neko</Ime>
+    <Opis>Ima neki opis</Opis>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/zid.jpg</Slika>
+  </TipModel>
+  <TipModel>
+    <Oznaka>Tip2</Oznaka>
+    <Ime>Ima</Ime>
+    <Opis>Ima i opis</Opis>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/zid.jpg</Slika>
+  </TipModel>
+</ArrayOfTipModel>

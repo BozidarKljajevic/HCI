@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfEtiketaModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EtiketaModel>
+    <Oznaka>ujik</Oznaka>
+    <Boja>
+      <A>255</A>
+      <R>85</R>
+      <G>107</G>
+      <B>47</B>
+      <ScA>1</ScA>
+      <ScR>0.09084171</ScR>
+      <ScG>0.147027269</ScG>
+      <ScB>0.02842604</ScB>
+    </Boja>
+    <Opis>sdad</Opis>
+  </EtiketaModel>
+</ArrayOfEtiketaModel>

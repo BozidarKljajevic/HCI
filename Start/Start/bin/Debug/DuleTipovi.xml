@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfTipModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TipModel>
+    <Oznaka>LKK</Oznaka>
+    <Ime>sdsad</Ime>
+    <Opis>fdsa</Opis>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/kip.jpg</Slika>
+  </TipModel>
+  <TipModel>
+    <Oznaka>dddd</Oznaka>
+    <Ime>asad</Ime>
+    <Opis>dsjkdnasjkd</Opis>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/kip.jpg</Slika>
+  </TipModel>
+</ArrayOfTipModel>

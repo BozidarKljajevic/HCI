@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<ArrayOfKorisnici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Korisnici korisnicko="Dule" sifra="dd">
+    <Korisnicko>Dule</Korisnicko>
+    <Sifra>dd</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Jure" sifra="jj">
+    <Korisnicko>Jure</Korisnicko>
+    <Sifra>jj</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Marko" sifra="mm">
+    <Korisnicko>Marko</Korisnicko>
+    <Sifra>mm</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Pavle" sifra="pp">
+    <Korisnicko>Pavle</Korisnicko>
+    <Sifra>pp</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Dule" sifra="pp">
+    <Korisnicko>Dule</Korisnicko>
+    <Sifra>pp</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Dule" sifra="ddd">
+    <Korisnicko>Dule</Korisnicko>
+    <Sifra>ddd</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Dule" sifra="dddd">
+    <Korisnicko>Dule</Korisnicko>
+    <Sifra>dddd</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Marko" sifra="ddd">
+    <Korisnicko>Marko</Korisnicko>
+    <Sifra>ddd</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Zdravko" sifra="ddd">
+    <Korisnicko>Zdravko</Korisnicko>
+    <Sifra>ddd</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Mile" sifra="mili">
+    <Korisnicko>Mile</Korisnicko>
+    <Sifra>mili</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="DamjanP" sifra="dado22">
+    <Korisnicko>DamjanP</Korisnicko>
+    <Sifra>dado22</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Ivan" sifra="ivan">
+    <Korisnicko>Ivan</Korisnicko>
+    <Sifra>ivan</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Bole" sifra="bole">
+    <Korisnicko>Bole</Korisnicko>
+    <Sifra>bole</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Joca" sifra="joca">
+    <Korisnicko>Joca</Korisnicko>
+    <Sifra>joca</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Pera" sifra="pera">
+    <Korisnicko>Pera</Korisnicko>
+    <Sifra>pera</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="oooo" sifra="aaaa">
+    <Korisnicko>oooo</Korisnicko>
+    <Sifra>aaaa</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Aca" sifra="aca">
+    <Korisnicko>Aca</Korisnicko>
+    <Sifra>aca</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Jva" sifra="jva">
+    <Korisnicko>Jva</Korisnicko>
+    <Sifra>jva</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Mika" sifra="mika">
+    <Korisnicko>Mika</Korisnicko>
+    <Sifra>mika</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Milos" sifra="milos">
+    <Korisnicko>Milos</Korisnicko>
+    <Sifra>milos</Sifra>
+  </Korisnici>
+  <Korisnici korisnicko="Dusan" sifra="dukasa">
+    <Korisnicko>Dusan</Korisnicko>
+    <Sifra>dukasa</Sifra>
+  </Korisnici>
+</ArrayOfKorisnici>

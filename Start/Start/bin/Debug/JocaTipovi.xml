@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfTipModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TipModel>
+    <Oznaka>prva</Oznaka>
+    <Ime>Tip1</Ime>
+    <Opis>Prvi napravljeni tip.</Opis>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/ajfell.jpg</Slika>
+  </TipModel>
+  <TipModel>
+    <Oznaka>druga</Oznaka>
+    <Ime>Tip2</Ime>
+    <Opis>Drugi napravljeni tip.</Opis>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/piza.jpg</Slika>
+  </TipModel>
+</ArrayOfTipModel>

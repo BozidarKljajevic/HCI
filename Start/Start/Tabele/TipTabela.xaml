@@ -1,0 +1,130 @@
+﻿<Window x:Class="Start.Tabele.TipTabela"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Start.Tabele"
+        xmlns:l="clr-namespace:Start.Help"
+        mc:Ignorable="d"
+        Title="TipTabela" Height="450" Width="750" MaxHeight="430" MaxWidth="750" WindowStartupLocation="CenterScreen" l:HelpProvider.HelpKey="TabelaTipHelp">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Help" Executed="CommandBinding_Executed"/>
+    </Window.CommandBindings>
+    <Grid>
+        <DataGrid x:Name="dgrMain" MinColumnWidth="80" ItemsSource="{Binding Path=ListaTipova}" IsReadOnly="True" AutoGenerateColumns="False" Height="148" VerticalAlignment="Top" Margin="25,0,247.6,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Oznaka" Width="SizeToCells" Binding="{Binding Oznaka}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Ime" Width="SizeToCells" Binding="{Binding Ime}"></DataGridTextColumn>
+                <DataGridTemplateColumn Header="Slika">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Path=Slika}" Width="25" Height="25"></Image>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid DataContext="{Binding ElementName=dgrMain, Path=SelectedItem}" HorizontalAlignment="Left" Height="248" Margin="0,150,0,0" VerticalAlignment="Top" Width="744">
+
+
+            <Label Content="Oznaka:" HorizontalAlignment="Left" Margin="139,12,0,0" VerticalAlignment="Top"/>
+            <TextBox  Name="OznakaBox" Text="{Binding Path=Oznaka}" IsEnabled="False" HorizontalAlignment="Left" Height="23" Margin="277,10,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="139">
+                <TextBox.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Oznaka tipa predstavlja jedistvenu-ljudski čitljivu oznaku koja određuje
+                        svaki tip. Oznaka svakog tipa je različita i služi da se etiketa
+                        jedinstveno identifikuje.
+                        </TextBlock>
+                    </StackPanel>
+                </TextBox.ToolTip>
+            </TextBox>
+
+            <Label Content="Ime:" HorizontalAlignment="Left" Margin="139,73,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.798,0.625"/>
+            <TextBox Name="ImeBox" Text="{Binding Path=Ime}" HorizontalAlignment="Left" Height="23" Margin="277,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="139">
+                <TextBox.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Polje namenjeno za prikaz i izmenu imena selektovanog tipa.
+                        </TextBlock>
+                    </StackPanel>
+                </TextBox.ToolTip>
+            </TextBox>
+
+            <Label Content="Opis:" HorizontalAlignment="Left" Margin="139,156,0,0" VerticalAlignment="Top"/>
+            <TextBox Name="OpisBox" Text="{Binding Path=Opis}" HorizontalAlignment="Left" Height="52" Margin="277,130,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="139">
+                <TextBox.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Kratak ili dugačak opis selektovanog tipa. Sve informacije
+                        koje želite da uneste o tipu, a nisu ponuđene, možete upisati u ovo polje.
+                        </TextBlock>
+                    </StackPanel>
+
+                </TextBox.ToolTip>
+            </TextBox>
+
+            <Border Name="okvir" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="64" Margin="504,73,0,0" VerticalAlignment="Top" Width="71"/>
+            <Image Name="img" Source="{Binding Path=Slika}" HorizontalAlignment="Left" Height="64" Margin="504,73,0,0" VerticalAlignment="Top" Width="69"/>
+            <Button Content="Izmeni sliku" HorizontalAlignment="Left" Margin="615,84,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+            <Button Content="Izmeni" HorizontalAlignment="Left" Margin="492,208,0,0" VerticalAlignment="Top" Width="52" Height="20" Click="Button_Click_3">
+                <Button.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Dugme je namenjeno  da ukoliko ste napravili neku promenu na selektovanim tipom, onda tu promenu i sačuvate klikom na ovo dugme.
+                        </TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+            <Button Content="Odustani" HorizontalAlignment="Left" Margin="659,208,0,20" Width="62" Click="Button_Click_4">
+                <Button.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Pitiskom na dugme odustajete od izmene tipa i napuštate ovaj dojalog.
+                        </TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+            <Button Content="Obriši" HorizontalAlignment="Left" Margin="579,208,0,0" VerticalAlignment="Top" Width="62" Click="Button_Click">
+                <Button.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Dugme je namenjeno  da obrišete selektovani tip.
+                        </TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+        </Grid>
+        <Label Content="Pretraga tipa po oznaci:" HorizontalAlignment="Left" Margin="585,18,0,0" VerticalAlignment="Top" Width="159"/>
+        <TextBox Name="PretragaBox" HorizontalAlignment="Left" Height="23" Margin="595,57,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120">
+            <TextBox.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <!-- <Image Margin="5" Source="/Slike/tip.png"></Image> -->
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Polje je namenjeno za unos oznake ili dela oznake tip koji želite da promađete.
+                    </TextBlock>
+                </StackPanel>
+
+            </TextBox.ToolTip>
+
+        </TextBox>
+        <Button Content="Pretraži" HorizontalAlignment="Left" Margin="619,98,0,0" VerticalAlignment="Top" Width="75" Click="Pretraga_Click">
+            <Button.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Dugme je namenjeno  da se primeni pretraga za uneto polje pretrage.
+                    </TextBlock>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+        <Button Content="Poništi" HorizontalAlignment="Left" Margin="620,135,0,0" VerticalAlignment="Top" Width="75" Click="PonistiPretragu_Click">
+            <Button.ToolTip>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                        Dugme je namenjeno  da se poništi dosatašnja pretraga i prikažu svi tipovi.
+                    </TextBlock>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+    </Grid>
+</Window>

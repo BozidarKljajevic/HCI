@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfTipModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TipModel>
+    <Oznaka>rew</Oznaka>
+    <Ime>fdssdf</Ime>
+    <Opis>fsdsfd</Opis>
+    <Slika>file:///C:/Users/bozid/Desktop/hci/Slike Spomenika/kip.jpg</Slika>
+  </TipModel>
+</ArrayOfTipModel>
